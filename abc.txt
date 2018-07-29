@@ -1,0 +1,10 @@
+int main()
+begin
+  int l[10];
+  int max;
+  for i=0 to n-1 do
+    if l[i]>max
+      max=l[i];
+    endif
+  endfor
+return(max)
